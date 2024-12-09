@@ -1,3 +1,5 @@
 requires installation of NLTK, NLTK Data, and VADER Sentiment Analysis 
 instructions to download can be found at https://www.nltk.org/index.html and https://pypi.org/project/vaderSentiment/
 or through pip with "pip install nltk" and "pip install vaderSentiment" respectively
+
+https://www.youtube.com/watch?v=Rs4ixlMsQcA
