@@ -1,2 +1,3 @@
-requires installation of NLTK and NLTK Data
-instructions to download can be found at https://www.nltk.org/index.html
+requires installation of NLTK, NLTK Data, and VADER Sentiment Analysis 
+instructions to download can be found at https://www.nltk.org/index.html and https://pypi.org/project/vaderSentiment/
+or through pip with "pip install nltk" and "pip install vaderSentiment" respectively
